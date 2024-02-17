@@ -1,0 +1,13 @@
+python
+opencv-contrib-python
+numpy
+mediapipe
+dlib
+time
+math
+os
+DeepFace
+cosine
+sklearn
+shutil
+face_recognition
